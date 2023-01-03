@@ -1,7 +1,7 @@
 # Task Manager App
 An app that let's user keep overview and update different projects and their tasks.
 
-![](https://github.com/albonkey/task-manager-app/blob/main/images/homepage.png)
+<img src="https://github.com/albonkey/task-manager-app/blob/main/images/homepage.png" alt="drawing" width="200"/>
 
 ## Frontend
 Built with Vue
